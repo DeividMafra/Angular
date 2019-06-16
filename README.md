@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Explanation
 
-I create an internationalization app to learning:
+I made an internationalization app to learning:
 
 - How to install Angular/cli;
 	node -v // To check the version and confirm that you have already installed node.js.
