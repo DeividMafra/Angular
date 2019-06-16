@@ -14,7 +14,7 @@ I made an internationalization app to learning:
 	ng new inter // Where "inter" is the name of the project.
 - How  to set the app with tags i18n;
 	insert "i18n" tag inside each html tag where is a text to be translated.
-	<h1 i18n>example</h1>  
+	//"<h1 i18n>example</h1>"  
 - How to extract this tags for a file to be translated;
 	ng xi18n --output-path src/locale // Where "src/locale" is the path where the file will be storaged.
 - How to insert <target> tags on this file with the translation;
